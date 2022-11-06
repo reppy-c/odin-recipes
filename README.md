@@ -1,0 +1,2 @@
+<h1>Odin Recipe Project</h1>
+<p>This is the readme for this Odin Project assignment. I believe it starts with raw HTML and applies CSS to it afterwards. Some of the skills I should have after this include using GIT a bunch to commit various files, some basic HTML with image tags and links to a bunch of different files, likely using relative linking.</p>
